@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
- <link rel="stylesheet" href="web.css">
   <head>
     <title> Dentist </title>
   </head>
