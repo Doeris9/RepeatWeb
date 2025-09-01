@@ -1,4 +1,6 @@
-<?php include "layout/header.php"; ?>
+<?php include "layout/header.php" ?>
+
+
   <h2>Add user</h2>
     <form method="post">
       <label for="firstname">First Name</label>
